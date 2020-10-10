@@ -1,0 +1,9 @@
+
+Fabricante:	{0}c
+Modelo:	{1}d
+Precio:	{2}1
+Anyos:	{3}1
+Clasificacion:	{4}a
+Capacidad:	{5}1
+Programas:	{0}1
+NRevoluciones:	{1}1

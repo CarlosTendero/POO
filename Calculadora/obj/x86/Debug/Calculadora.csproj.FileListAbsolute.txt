@@ -1,0 +1,31 @@
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\bin\Debug\Calculadora.exe
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\bin\Debug\Calculadora.pdb
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.exe
+d:\visual studio 2010\Projects\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\alumno\Desktop\TenderoCarlos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\bin\Debug\Calculadora.exe
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\bin\Debug\Calculadora.pdb
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csprojAssemblyReference.cache
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Calculadora.resources
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Calculadora\obj\x86\Debug\Calculadora.pdb

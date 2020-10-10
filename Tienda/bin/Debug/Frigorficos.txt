@@ -1,0 +1,37 @@
+
+Fabricante:	a
+Modelo:	b
+Precio:	1  euros
+Anyos:	3 garantia
+Clasificacion:	a energetica
+Capacidad:	1
+Alto:	1
+Ancho:	1
+Fondo:	1
+Fabricante:	b
+Modelo:	a
+Precio:	1  euros
+Anyos:	1 garantia
+Clasificacion:	a energetica
+Capacidad:	1
+Alto:	1
+Ancho:	1
+Fondo:	1
+Fabricante:	c
+Modelo:	d
+Precio:	1  euros
+Anyos:	1 garantia
+Clasificacion:	a energetica
+Capacidad:	1
+Alto:	1
+Ancho:	1
+Fondo:	1
+Fabricante:	t
+Modelo:	r
+Precio:	1  euros
+Anyos:	1 garantia
+Clasificacion:	a energetica
+Capacidad:	1
+Alto:	1
+Ancho:	1
+Fondo:	1

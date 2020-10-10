@@ -1,0 +1,17 @@
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\bin\Debug\Agenda.exe
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\bin\Debug\Agenda.pdb
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\obj\Debug\Agenda.exe
+C:\Users\alumno\Desktop\TenderoCarlos\Agenda\obj\Debug\Agenda.pdb
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.exe
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.pdb
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\bin\Debug\Agenda.exe
+C:\Users\carlo\Desktop\UFV\POO\TenderoCarlos\Agenda\bin\Debug\Agenda.pdb
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Agenda\bin\Debug\Agenda.exe
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Agenda\bin\Debug\Agenda.pdb
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.csprojAssemblyReference.cache
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.exe
+D:\Universidad\Cursos\PRIMERO\POO\TenderoCarlos\Agenda\obj\Debug\Agenda.pdb

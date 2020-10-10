@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\TenderoCarlos\PrismasReguladores\bin\Debug\PrismasReguladores.exe
+C:\Users\alumno\Desktop\TenderoCarlos\PrismasReguladores\bin\Debug\PrismasReguladores.pdb
+C:\Users\alumno\Desktop\TenderoCarlos\PrismasReguladores\obj\x86\Debug\PrismasReguladores.exe
+C:\Users\alumno\Desktop\TenderoCarlos\PrismasReguladores\obj\x86\Debug\PrismasReguladores.pdb
+C:\Users\alumno\Desktop\TenderoCarlos\PrismasReguladores\obj\x86\Debug\PrismasReguladores.csprojResolveAssemblyReference.cache
